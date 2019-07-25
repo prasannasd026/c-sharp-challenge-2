@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/c-sharp challenge 2/.vs/c-sharp challenge 2/v16
+/c-sharp challenge 2/c-sharp challenge 2/obj/Debug/netcoreapp2.1
+/c-sharp challenge 2/c-sharp challenge 2/obj
